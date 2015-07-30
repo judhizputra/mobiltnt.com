@@ -107,10 +107,6 @@ footer#main-footer img {
 	width: auto;
 }
 
-.booking-item {
-	border: 1px solid #d74c47;
-}
-
 .booking-item:hover,
 .booking-item.active {
   border: 1px solid #d74c47;
