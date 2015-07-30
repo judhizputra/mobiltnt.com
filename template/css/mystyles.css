@@ -1,5 +1,13 @@
 /*YOUR CUSTOM STYLES*/
 
+a {
+	color: #d74c47;
+}
+
+a:hover {
+	color: d9534f;
+}
+
 .no-padding {
 	padding: 0px;
 }
@@ -10,7 +18,8 @@
 }
 
 .nav-drop > .nav-drop-menu {
-	width: 100px;
+	min-width: 100px;
+    width: auto;
 }
 
 .top-user-area .top-user-area-list > li > a:hover {
@@ -25,7 +34,8 @@ header#main-header {
 	text-align: center;
 }
 
-.thumb-title, .thumb-desc {
+.thumb-title, 
+.thumb-desc {
 	color: #000;
 }
 
@@ -60,6 +70,62 @@ footer#main-footer img {
 .bg-newsletter .input-icon {
 	top: 0px;
 	color: #d74c47;
+}
+
+.booking-title {
+	font-size: 30.758px;
+}
+
+.booking-item-dates-change {
+	border-color: #d74c47;
+}
+
+.form-group.form-group-focus .input-icon.input-icon-hightlight {
+	color: #d74c47;
+}
+
+.irs-diapason {
+	background: #f6c919 none repeat scroll 0 0;
+}
+
+.irs-slider {
+    background: #c5a114 none repeat scroll 0 0;
+}
+
+.i-check.checked, 
+.i-radio.checked {
+	  background: #f6c919 none repeat scroll 0 0;
+	  border: 1px solid #f6c919;
+}
+
+.i-check.hover,
+.i-radio.hover {
+  	border: 1px solid #f6c919;
+}
+
+.booking-filters {
+	width: auto;
+}
+
+.booking-item {
+	border: 1px solid #d74c47;
+}
+
+.booking-item:hover,
+.booking-item.active {
+  border: 1px solid #d74c47;
+}
+	
+.booking-item-price {
+	font-size: 24px;
+}
+
+.pagination > li > a {
+	color: #d74c47;
+}
+
+.pagination > li.active > a, .pagination > li.active > a:hover {
+	background: #d74c47 none repeat scroll 0 0;
 }
 
 @media (max-width:768px) {
