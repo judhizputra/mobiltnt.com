@@ -10,7 +10,7 @@
 
 
 // Countdown
-$('.countdown').each(function() {
+/*$('.countdown').each(function() {
     var count = $(this);
     $(this).countdown({
         zeroCallback: function(options) {
@@ -23,7 +23,7 @@ $('.countdown').each(function() {
             });
         }
     });
-});
+});*/
 
 
 $('.btn').button();
@@ -78,8 +78,6 @@ $('input.date-pick, .input-daterange, .date-pick-inline').datepicker({
     todayHighlight: true
 });
 
-
-
 $('input.date-pick, .input-daterange input[name="start"]').datepicker('setDate', 'today');
 $('.input-daterange input[name="end"]').datepicker('setDate', '+7d');
 
@@ -92,10 +90,7 @@ $('input.date-pick-years').datepicker({
     startView: 2
 });
 
-
-
-
-$('.booking-item-price-calc .checkbox label').click(function() {
+/*$('.booking-item-price-calc .checkbox label').click(function() {
     var checkbox = $(this).find('input'),
         // checked = $(checkboxDiv).hasClass('checked'),
         checked = $(checkbox).prop('checked'),
@@ -138,7 +133,6 @@ $('.booking-item-price-calc .checkbox label').click(function() {
     }
 });
 
-
 $('div.bg-parallax').each(function() {
     var $obj = $(this);
     if($(window).width() > 992 ){
@@ -155,9 +149,7 @@ $('div.bg-parallax').each(function() {
 
         });
     }
-});
-
-
+});*/
 
 $(document).ready(
     function() {
@@ -208,12 +200,12 @@ $(document).ready(
 
     // footer always on bottom
     var docHeight = $(window).height();
-   var footerHeight = $('#main-footer').height();
-   var footerTop = $('#main-footer').position().top + footerHeight;
-   
-   if (footerTop < docHeight) {
-    $('#main-footer').css('margin-top', (docHeight - footerTop) + 'px');
-   }
+	   var footerHeight = $('#main-footer').height();
+	   var footerTop = $('#main-footer').position().top + footerHeight;
+	   
+	   if (footerTop < docHeight) {
+		$('#main-footer').css('margin-top', (docHeight - footerTop) + 'px');
+	   }
     }
 
 
@@ -221,7 +213,6 @@ $(document).ready(
 
 
 $('.nav-drop').dropit();
-
 
 $("#price-slider").ionRangeSlider({
     min: 130,
@@ -238,9 +229,7 @@ $('.i-check, .i-radio').iCheck({
     radioClass: 'i-radio'
 });
 
-
-
-$('.booking-item-review-expand').click(function(event) {
+/*$('.booking-item-review-expand').click(function(event) {
     console.log('baz');
     var parent = $(this).parent('.booking-item-review-content');
     if (parent.hasClass('expanded')) {
@@ -249,7 +238,6 @@ $('.booking-item-review-expand').click(function(event) {
         parent.addClass('expanded');
     }
 });
-
 
 $('.stats-list-select > li > .booking-item-rating-stars > li').each(function() {
     var list = $(this).parent(),
@@ -278,8 +266,6 @@ $('.stats-list-select > li > .booking-item-rating-stars > li').each(function() {
     });
 });
 
-
-
 $('.booking-item-container').children('.booking-item').click(function(event) {
     if ($(this).hasClass('active')) {
         $(this).removeClass('active');
@@ -291,14 +277,12 @@ $('.booking-item-container').children('.booking-item').click(function(event) {
             $(this).addClass('viewed')
         });
     }
-});
+});*/
 
 
 /*$('.form-group-cc-number input').payment('formatCardNumber');
 $('.form-group-cc-date input').payment('formatCardExpiry');
-$('.form-group-cc-cvc input').payment('formatCardCVC');*/
-
-
+$('.form-group-cc-cvc input').payment('formatCardCVC');
 
 
 if ($('#map-canvas').length) {
@@ -341,7 +325,7 @@ $('.card-select > li').click(function() {
     $('.form-group-cc-number input').click(function() {
         $(self).removeClass('card-item-selected');
     });
-});
+});*/
 // Lighbox gallery
 /*$('#popup-gallery').each(function() {
     $(this).magnificPopup({
@@ -423,10 +407,11 @@ $('.form-group-select-plus').each(function() {
     };
     ticker();
 });*/
+
 $(function() {
     $('#ri-grid').gridrotator({
-        rows: 3,
-        columns: 8,
+        rows: 2,
+        columns: 6,
         animType: 'random',
         animSpeed: 1200,
         interval: 1200,
@@ -458,7 +443,7 @@ $(function() {
 });
 
 
-$(function() {
+/*$(function() {
     $('#ri-grid-no-animation').gridrotator({
         rows: 4,
         columns: 8,
@@ -485,7 +470,7 @@ $(function() {
         }
     });
 
-});
+});*/
 
 var tid = setInterval(tagline_vertical_slide, 2500);
 

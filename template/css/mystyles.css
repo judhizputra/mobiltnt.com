@@ -1,5 +1,14 @@
 /*YOUR CUSTOM STYLES*/
 
+.no-padding {
+	padding: 0px;
+}
+
+.col-centered {
+	float: none;
+	margin: 0 auto;
+}
+
 .nav-drop > .nav-drop-menu {
 	width: 100px;
 }
@@ -33,11 +42,24 @@ header#main-header {
 }
 
 footer#main-footer .form-control:focus {
-  border-color: #d74c47;
+  	border-color: #d74c47;
+}
+
+footer#main-footer img {
+	width: auto;
 }
 
 .text-color {
 	color: #f6c919 !important;
+}
+
+.bg-newsletter {
+	background: rgba(0, 0, 0, 0) url("../img/newsletter-background.png") repeat-x scroll 0 0;
+}
+
+.bg-newsletter .input-icon {
+	top: 0px;
+	color: #d74c47;
 }
 
 @media (max-width:480px) {
