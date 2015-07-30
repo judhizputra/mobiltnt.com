@@ -120,6 +120,10 @@
         rows: 4,
         // number of columns 
         columns: 10,
+        w1366: {
+            rows: 2,
+            columns: 4
+        },
         w992: {
             rows: 3,
             columns: 8
@@ -365,6 +369,10 @@
                 case (c_w < 992):
                     this.rows = this.options.w992.rows;
                     this.columns = this.options.w992.columns;
+                    break;
+                case (c_w < 1366):
+                    this.rows = this.options.w1366.rows;
+                    this.columns = this.options.w1366.columns;
                     break;
                 default:
                     this.rows = this.options.rows;

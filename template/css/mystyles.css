@@ -62,14 +62,15 @@ footer#main-footer img {
 	color: #d74c47;
 }
 
-@media (max-width:480px) {
-	.full-center {
-		top: 37% !important;
+@media (max-width:768px) {
+	.no-padding {
+		padding-left: 15px;
+		padding-right: 15px;
 	}
 }
 
+@media (max-width:480px) {
+}
+
 @media (max-width:320px) {
-	.full-center {
-		top: 29% !important;
-	}
 }

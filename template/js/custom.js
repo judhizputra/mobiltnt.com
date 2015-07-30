@@ -418,8 +418,12 @@ $(function() {
         step: 'random',
         preventClick: false,
         maxStep: 2,
+        w1366: {
+            rows: 2,
+            columns: 4
+        },
         w992: {
-            rows: 5,
+            rows: 4,
             columns: 4
         },
         w768: {
@@ -427,16 +431,8 @@ $(function() {
             columns: 3
         },
         w480: {
-            rows: 7,
-            columns: 3
-        },
-        w320: {
-            rows: 5,
-            columns: 4
-        },
-        w240: {
-            rows: 6,
-            columns: 4
+            rows: 4,
+            columns: 2
         }
     });
 
