@@ -3,7 +3,7 @@
         <div class="container">
             <ul class="breadcrumb">
                 <li><a href="index.html">Home</a></li>
-                <li class="active">Sewa mobil di Jakarta</li>
+                <li class="active">Rental mobil di Jakarta</li>
             </ul>
             <h1 class="booking-title">Ditemukan 200 mobil rental di Jakarta Timur pada 1 Agustus - 5 Agustus</h1>
             <div class="row">
@@ -33,7 +33,7 @@
                             <input class="btn btn-danger" type="submit" value="Perbarui Pencarian" />
                         </form>
                     </div>
-                    <aside class="booking-filters text-white">
+                    <aside class="booking-filters text-white mb20">
                         <h3>Filter:</h3>
                         <ul class="list booking-filters-list">
                             <li>
@@ -209,7 +209,8 @@
                                     </div>
                                     <div class="col-md-4 col-sm-6 col-lg-3"><span class="booking-item-price">Rp 1.350.000</span><span>/hari</span>
                                         <p class="booking-item-flight-class">Sport</p>
-                                        <a href="#" class="btn btn-danger">Pesan</a>
+                                        <a href="checkout.php" class="btn btn-danger">Pesan</a>
+                                        <a href="detail.php" class="btn btn-warning">Detail</a>
                                     </div>
                                 </div>
                             </div>
@@ -277,7 +278,8 @@
                                     </div>
                                     <div class="col-md-4 col-sm-6 col-lg-3"><span class="booking-item-price">Rp 750.000</span><span>/hari</span>
                                         <p class="booking-item-flight-class">SUV</p>
-                                        <a href="#" class="btn btn-danger">Pesan</a>
+                                        <a href="checkout.php" class="btn btn-danger">Pesan</a>
+                                        <a href="detail.php" class="btn btn-warning">Detail</a>
                                     </div>
                                 </div>
                             </div>
@@ -345,7 +347,8 @@
                                     </div>
                                     <div class="col-md-4 col-sm-6 col-lg-3"><span class="booking-item-price">Rp 1.350.000</span><span>/hari</span>
                                         <p class="booking-item-flight-class">Sport</p>
-                                        <a href="#" class="btn btn-danger">Pesan</a>
+                                        <a href="checkout.php" class="btn btn-danger">Pesan</a>
+                                        <a href="detail.php" class="btn btn-warning">Detail</a>
                                     </div>
                                 </div>
                             </div>
@@ -413,7 +416,8 @@
                                     </div>
                                     <div class="col-md-4 col-sm-6 col-lg-3"><span class="booking-item-price">Rp 750.000</span><span>/hari</span>
                                         <p class="booking-item-flight-class">SUV</p>
-                                        <a href="#" class="btn btn-danger">Pesan</a>
+                                        <a href="checkout.php" class="btn btn-danger">Pesan</a>
+                                        <a href="detail.php" class="btn btn-warning">Detail</a>
                                     </div>
                                 </div>
                             </div>
@@ -481,7 +485,8 @@
                                     </div>
                                     <div class="col-md-4 col-sm-6 col-lg-3"><span class="booking-item-price">Rp 1.350.000</span><span>/hari</span>
                                         <p class="booking-item-flight-class">Sport</p>
-                                        <a href="#" class="btn btn-danger">Pesan</a>
+                                        <a href="checkout.php" class="btn btn-danger">Pesan</a>
+                                        <a href="detail.php" class="btn btn-warning">Detail</a>
                                     </div>
                                 </div>
                             </div>
@@ -549,7 +554,8 @@
                                     </div>
                                     <div class="col-md-4 col-sm-6 col-lg-3"><span class="booking-item-price">Rp 750.000</span><span>/hari</span>
                                         <p class="booking-item-flight-class">SUV</p>
-                                        <a href="#" class="btn btn-danger">Pesan</a>
+                                        <a href="checkout.php" class="btn btn-danger">Pesan</a>
+                                        <a href="detail.php" class="btn btn-warning">Detail</a>
                                     </div>
                                 </div>
                             </div>
@@ -617,7 +623,8 @@
                                     </div>
                                     <div class="col-md-4 col-sm-6 col-lg-3"><span class="booking-item-price">Rp 1.350.000</span><span>/hari</span>
                                         <p class="booking-item-flight-class">Sport</p>
-                                        <a href="#" class="btn btn-danger">Pesan</a>
+                                        <a href="checkout.php" class="btn btn-danger">Pesan</a>
+                                        <a href="detail.php" class="btn btn-warning">Detail</a>
                                     </div>
                                 </div>
                             </div>
@@ -685,7 +692,8 @@
                                     </div>
                                     <div class="col-md-4 col-sm-6 col-lg-3"><span class="booking-item-price">Rp 750.000</span><span>/hari</span>
                                         <p class="booking-item-flight-class">SUV</p>
-                                        <a href="#" class="btn btn-danger">Pesan</a>
+                                        <a href="checkout.php" class="btn btn-danger">Pesan</a>
+                                        <a href="detail.php" class="btn btn-warning">Detail</a>
                                     </div>
                                 </div>
                             </div>
@@ -753,7 +761,8 @@
                                     </div>
                                     <div class="col-md-4 col-sm-6 col-lg-3"><span class="booking-item-price">Rp 1.350.000</span><span>/hari</span>
                                         <p class="booking-item-flight-class">Sport</p>
-                                        <a href="#" class="btn btn-danger">Pesan</a>
+                                        <a href="checkout.php" class="btn btn-danger">Pesan</a>
+                                        <a href="detail.php" class="btn btn-warning">Detail</a>
                                     </div>
                                 </div>
                             </div>
@@ -821,7 +830,8 @@
                                     </div>
                                     <div class="col-md-4 col-sm-6 col-lg-3"><span class="booking-item-price">Rp 750.000</span><span>/hari</span>
                                         <p class="booking-item-flight-class">SUV</p>
-                                        <a href="#" class="btn btn-danger">Pesan</a>
+                                        <a href="checkout.php" class="btn btn-danger">Pesan</a>
+                                        <a href="detail.php" class="btn btn-warning">Detail</a>
                                     </div>
                                 </div>
                             </div>

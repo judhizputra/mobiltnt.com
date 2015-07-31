@@ -124,12 +124,46 @@ footer#main-footer img {
 	background: #d74c47 none repeat scroll 0 0;
 }
 
+.booking-item-features > li:hover > i {
+  	border-color: #d74c47;
+}
+
+@media (max-width:1024px) {
+	.lh1em {
+		font-size: 36px;
+	}
+	
+	.booking-item-details .booking-item-header-price {
+		font-size: 14px;
+	}
+	
+	.booking-item-details .booking-item-header-price .text-lg {
+		font-size: 24px;
+	}	
+}
+
+@media (max-width:992px) {
+	.lh1em {
+		font-size: 36px;
+	}
+	
+	.booking-item-details .booking-item-header-price {
+		font-size: 14px;
+		text-align: left;
+	}
+	
+	.booking-item-details .booking-item-header-price .text-lg {
+		font-size: 24px;
+	}
+}
+
 @media (max-width:768px) {
 	.no-padding {
 		padding-left: 15px;
 		padding-right: 15px;
 	}
 }
+
 
 @media (max-width:480px) {
 }
