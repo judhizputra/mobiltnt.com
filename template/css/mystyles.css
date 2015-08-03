@@ -5,7 +5,7 @@ a {
 }
 
 a:hover {
-	color: d9534f;
+	color: #df706c;
 }
 
 .no-padding {
@@ -126,6 +126,20 @@ footer#main-footer img {
 
 .booking-item-features > li:hover > i {
   	border-color: #d74c47;
+}
+
+.table-feature img {
+	width: auto;
+}
+
+.table-feature .center-col {
+	text-align: center;
+}
+
+.table-feature .i-check {
+	float: none;
+	margin: 0 auto;
+	left: 0;
 }
 
 @media (max-width:1024px) {
