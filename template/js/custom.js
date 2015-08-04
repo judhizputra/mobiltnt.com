@@ -143,3 +143,15 @@ $(function() {
     });
 
 });
+
+/* Custom */
+$(document).ready(function(){
+	$("#register-form").submit(function(e){
+		e.preventDefault();
+		
+		$(".register-step1").hide();
+		$(".register-step2").show();
+		
+	});
+});
+/* Custom */

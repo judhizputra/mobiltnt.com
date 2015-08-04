@@ -5,7 +5,7 @@
                         <a class="logo" href="index.html">
                             <img src="img/logo-invert.png" alt="Image Alternative text" title="Image Title" />
                         </a>
-                        <p class="mb20">Anda dapat menjadi sebagai penyewa dah juga yang menyewakan!</p>
+                        <p class="mb20">Anda dapat menjadi sebagai penyewa dan juga sebagai rental!</p>
                         <ul class="list list-horizontal list-space">
                             <li><a class="fa fa-facebook box-icon-danger round animate-icon-bottom-to-top" href="#"></a></li>
                             <li><a class="fa fa-twitter box-icon-danger round animate-icon-bottom-to-top" href="#"></a></li>

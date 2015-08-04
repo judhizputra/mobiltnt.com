@@ -7,7 +7,7 @@
     <meta content="text/html;charset=utf-8" http-equiv="Content-Type">
     <meta name="keywords" content="Template, html, premium, themeforest" />
     <meta name="description" content="Traveler - Premium template for travel companies">
-    <meta name="author" content="Tsoy">
+    <meta name="author" content="Judhiz">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <!-- GOOGLE FONTS -->
