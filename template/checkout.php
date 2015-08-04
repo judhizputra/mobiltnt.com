@@ -1,8 +1,13 @@
 		<?php include('header.php'); ?>
-        
-        <div class="gap"></div>
-        
+                
         <div class="container">
+        	<ul class="breadcrumb">
+                <li><a href="index.php">Home</a></li>
+                <li><a href="result.php">Rental mobil di Jakarta</a></li>
+                <li><a href="detail.php">Lamborgini Aventador</a></li>
+                <li class="active">Checkout</li>
+            </ul>
+            <hr>
             <div class="row">
                 <div class="col-md-8">
                     <h3>Kelengkapan Data Rental</h3>
