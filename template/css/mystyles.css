@@ -183,4 +183,7 @@ footer#main-footer img {
 }
 
 @media (max-width:320px) {
+	.order-payment-list .col-xs-8, .order-payment-list .col-xs-4 {
+		width: 100%;
+	}
 }
