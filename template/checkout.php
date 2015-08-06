@@ -171,43 +171,12 @@
                                 <input class="i-check" type="checkbox" checked/>Saya menyetujui <a href="terms.php">Syarat dan Ketentuan</a> mobiltnt.com
                             </label>
                         </div>
+                        <div class="row">
+                            <div class="col-md-12">
+                                <input type="submit" class="btn btn-danger" value="Proses Checkout">
+                            </div>
+                        </div>
                     </form>
-                    <hr>
-                    <h3>Pilih Metode Pembayaran</h3>
-                    <div class="row">
-                        <div class="col-md-4 col-xs-4">
-                        	<a href="#"><img class="pp-img img-thumbnail" src="img/payment/bca-clickpay.png" alt="Logo BCA KlikPay" title="Pembayaran via BCA KlikPay" /></a>
-                        </div>
-                        <div class="col-md-4 col-xs-4">
-                        	<a href="#">
-                            	<img class="pp-img img-thumbnail" src="img/payment/mandiri-clickpay.png" alt="Logo Mandiri Clickpay" title="Pembayaran via Mandiri Clickpay" />
-                            </a>
-                        </div>
-                        <div class="col-md-4 col-xs-4">
-                        	<a href="#">
-                            	<img class="pp-img img-thumbnail" src="img/payment/epay-bri.png" alt="Logo E-pay BRI" title="Pembayaran via E-pay BRI" />
-                            </a>
-                        </div>
-                        <div class="col-md-4 col-xs-4">
-                        	<a href="#">
-                            	<img class="pp-img img-thumbnail" src="img/payment/visa-master.png" alt="Logo Visa & Master" title="Pembayaran via Visa & Master" />
-                            </a>
-                        </div>
-                        <div class="col-md-4 col-xs-4">
-                        	<a href="#">
-                            	<img class="pp-img img-thumbnail" src="img/payment/atm-bersama.png" alt="Logo ATM Bersama" title="Pembayaran via ATM Bersama" />
-                            </a>
-                        </div>
-                        <div class="col-md-4 col-xs-4">
-                        	<a href="#">
-                            	<img class="pp-img img-thumbnail" src="img/payment/alfa-group.png" alt="Logo Alfa Group" title="Pembayaran via Alfa Group" />
-                            </a>
-                        </div>
-                        <div class="col-md-12">
-                            <a href="#" class="btn btn-danger">Proses Pembayaran</a>
-                        </div>
-                        <div class="gap-small"></div>
-                    </div>
                 </div>
 
                 <div class="col-md-4">
