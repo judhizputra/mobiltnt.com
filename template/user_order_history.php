@@ -34,7 +34,7 @@
                                 <td>1 Agu 2015</td>
                                 <td>3 Agu 2015 <i class="fa fa-long-arrow-right"></i> 5 Agu 2015</td>
                                 <td>Rp 2.000.000</td>
-                                <td class="text-center"><a href="#" class="btn btn-warning btn-xs">Dalam Proses</a></td>
+                                <td class="text-center"><a href="user_order_detail.php" class="btn btn-warning btn-xs">Dalam Proses</a></td>
                             </tr>
                             <tr>
                                 <td>#TNT-20150805002</td>
@@ -43,7 +43,7 @@
                                 <td>1 Mar 2015</td>
                                	<td>3 Mar 2015 <i class="fa fa-long-arrow-right"></i> 5 Mar 2015</td>
                                 <td>Rp 3.000.000</td>
-                                <td class="text-center"><a href="#" class="btn btn-success btn-xs">Sudah Diantar</a></td>
+                                <td class="text-center"><a href="user_order_detail.php" class="btn btn-success btn-xs">Sudah Diantar</a></td>
                             </tr>
                             <tr>
                                 <td>#TNT-20150805003</td>
@@ -52,7 +52,34 @@
                                 <td>1 Apr 2015</td>
                                 <td>3 Apr 2015 <i class="fa fa-long-arrow-right"></i> 5 Apr 2015</td>
                                 <td>Rp 4.000.000</td>
-                                <td class="text-center"><a href="#" class="btn btn-danger btn-xs">Mobil Ditolak</a></td>
+                                <td class="text-center"><a href="user_order_detail.php" class="btn btn-danger btn-xs">Mobil Ditolak</a></td>
+                            </tr>
+                            <tr>
+                                <td>#TNT-20150805004</td>
+                                <td>Suzuki APV</td>
+                                <td>Bandung</td>
+                                <td>1 Apr 2015</td>
+                                <td>3 Apr 2015 <i class="fa fa-long-arrow-right"></i> 5 Apr 2015</td>
+                                <td>Rp 4.000.000</td>
+                                <td class="text-center"><a href="user_order_detail.php" class="btn btn-danger btn-xs">Belum Dibayar</a></td>
+                            </tr>
+                            <tr>
+                                <td>#TNT-20150805005</td>
+                                <td>Toyota Innova</td>
+                                <td>Bandung</td>
+                                <td>1 Apr 2015</td>
+                                <td>3 Apr 2015 <i class="fa fa-long-arrow-right"></i> 5 Apr 2015</td>
+                                <td>Rp 4.000.000</td>
+                                <td class="text-center"><a href="user_order_detail.php" class="btn btn-success btn-xs">Sudah Dibayar</a></td>
+                            </tr>
+                            <tr>
+                                <td>#TNT-20150805006</td>
+                                <td>Toyota Innova</td>
+                                <td>Bandung</td>
+                                <td>1 Apr 2015</td>
+                                <td>3 Apr 2015 <i class="fa fa-long-arrow-right"></i> 5 Apr 2015</td>
+                                <td>Rp 4.000.000</td>
+                                <td class="text-center"><a href="user_order_detail.php" class="btn btn-info btn-xs">Mobil Diterima</a></td>
                             </tr>
                         </tbody>
                     </table>

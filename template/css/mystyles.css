@@ -142,12 +142,40 @@ footer#main-footer img {
 	left: 0;
 }
 
+
 .register-step2 {
 	display: none;
 }
 
+.page-title {
+	font-size: 30px;
+}
+
 .user-profile-sidebar .user-profile-nav > li > a:hover > i {
   	color: #d74c47;
+}
+
+.panel {
+	border-radius: 0;
+}
+
+.panel-default > .panel-heading {
+	background-color: #f5f5f5;
+    border-color: #dddddd;
+    color: #333333;
+	padding: 10px 15px;
+}
+
+.table {
+	margin-bottom: 0;
+}
+
+.borderless td, .borderless th {
+    border: none !important;
+}
+
+span.sub-item {
+	padding-left: 20px;
 }
 
 @media (max-width:1024px) {
