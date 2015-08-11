@@ -96,6 +96,7 @@
                                     </tr>
                                 </tbody>
                             </table>
+                            <div class="gap-small"></div>
                             <input type="submit" class="btn btn-danger" value="Perbarui Data">
                         </div>
                     </div>
