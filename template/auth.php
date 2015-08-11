@@ -3,7 +3,7 @@
         <div class="gap"></div>
 
         <div class="container">
-            <div class="row" data-gutter="60">
+            <div class="row">
                 <div class="col-md-4">
                     <h3>Selamat datang di mobiltnt.com</h3>
                     <p>Untuk memudahkan Anda dalam melakukan aktifitas di mobiltnt.com, kami menyediakan sarana untuk memonitoring segala transaksi yang sudah pernah dan sedang Anda lakukan.</p>
