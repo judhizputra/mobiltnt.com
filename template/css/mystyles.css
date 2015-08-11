@@ -188,6 +188,10 @@ span.sub-item {
 	width: auto;
 }
 
+.forgot-form {
+	display: none;
+}
+
 @media (max-width:1024px) {
 	.lh1em {
 		font-size: 36px;

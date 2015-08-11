@@ -12,7 +12,7 @@
                     <div class="gap"></div>
                 </div>
                 
-                <div class="col-md-4">
+                <div class="col-md-4 login-form">
                     <h3>Login</h3>
                     <form>
                         <div class="form-group form-group-icon-left"><i class="fa fa-envelope input-icon input-icon-show"></i>
@@ -23,7 +23,21 @@
                             <label>Password</label>
                             <input class="form-control" type="password" placeholder="sandi rahasia" />
                         </div>
+                    	<p class="pull-right"><a href="javascript:void(0)" id="show-forgot">Lupa password?</a></p>
                         <input class="btn btn-danger" type="submit" value="Masuk" />
+                    </form>
+               	 	<div class="gap"></div>
+                </div>
+                
+                <div class="col-md-4 forgot-form">
+                    <h3>Lupa Password</h3>
+                    <form>
+                        <div class="form-group form-group-icon-left"><i class="fa fa-envelope input-icon input-icon-show"></i>
+                            <label>Email</label>
+                            <input class="form-control" placeholder="username@email.com" type="text" />
+                        </div>
+                        <p class="pull-right"><a href="javascript:void(0)" id="show-login">Kembali ke login</a></p>
+                        <input class="btn btn-danger" type="submit" value="Kirim Password" />
                     </form>
                     
                	 	<div class="gap"></div>

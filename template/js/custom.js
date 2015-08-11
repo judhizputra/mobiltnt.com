@@ -160,10 +160,18 @@ $('.popup-form').magnificPopup({
 $(document).ready(function(){
 	$("#register-form").submit(function(e){
 		e.preventDefault();
-		
 		$(".register-step1").hide();
 		$(".register-step2").show();
-		
+	});
+	
+	$("#show-forgot").click(function(e){
+		$(".login-form").hide();
+		$(".forgot-form").show();
+	});
+	
+	$("#show-login").click(function(e){
+		$(".login-form").show();
+		$(".forgot-form").hide();
 	});
 });
 /* Custom */
