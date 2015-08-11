@@ -23,7 +23,7 @@
                             <label>Password</label>
                             <input class="form-control" type="password" placeholder="sandi rahasia" />
                         </div>
-                        <input class="btn btn-primary" type="submit" value="Masuk" />
+                        <input class="btn btn-danger" type="submit" value="Masuk" />
                     </form>
                     
                	 	<div class="gap"></div>
@@ -60,7 +60,7 @@
                                 <textarea class="form-control" placeholder="Jl. Tarian Raya Timur, Kelapa Gading"></textarea>
                             </div>
                         </div>
-                        <input class="btn btn-primary" type="submit" value="Daftar" />
+                        <input class="btn btn-danger" type="submit" value="Daftar" />
                     </form>
                 </div>
             </div>
