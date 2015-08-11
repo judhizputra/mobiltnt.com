@@ -1,5 +1,5 @@
 		<?php include('header.php'); ?>
-                
+        
         <div class="container">
         	<ul class="breadcrumb">
                 <li><a href="index.php">Home</a></li>
@@ -126,7 +126,7 @@
                     </form>
                     <hr>
                     <h3>Lengkapi Data Anda</h3>
-                    <p>Untuk mempersingkat proses booking silahkan login ke <a href="auth.php">akun</a> Anda.</p>
+                    <p>Untuk mempersingkat proses booking silahkan login ke <a class="popup-form" href="#popup-login" data-effect="mfp-zoom-out">akun</a> Anda.</p>
                     <form>
                         <div class="row">
                             <div class="col-md-6">
@@ -228,6 +228,29 @@
                 </div>
             </div>
             <div class="gap"></div>
+        </div>
+        
+        <!--<a class="popup-text" href="#small-dialog" data-effect="mfp-zoom-out">Modal HTML block</a> -->
+        <div id="popup-login" class="mfp-with-anim mfp-hide login-dialog">
+            <div class="row">
+                <div class="col-md-12">
+                    <h3>Login</h3>
+                    <form>
+                        <div class="form-group form-group-icon-left"><i class="fa fa-envelope input-icon input-icon-show"></i>
+                            <label>Email</label>
+                            <input class="form-control" placeholder="username@email.com" type="text" />
+                        </div>
+                        <div class="form-group form-group-icon-left"><i class="fa fa-lock input-icon input-icon-show"></i>
+                            <label>Password</label>
+                            <input class="form-control" type="password" placeholder="sandi rahasia" />
+                        </div>
+                        <input class="btn btn-danger" type="submit" value="Masuk" />
+                    </form>
+                    
+                    <div class="gap-small"></div>
+                    <p>Baru di mobiltnt.com? Klik <a href="auth.php">disini</a> untuk bergabung.
+                </div>
+            </div>
         </div>
         
         <?php include('footer.php'); ?>

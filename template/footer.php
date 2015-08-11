@@ -48,6 +48,7 @@
         <script src="js/dropit.js"></script>
         <script src="js/icheck.js"></script>
         <script src="js/typeahead.js"></script>
+        <script src="js/magnific.js"></script>
         <script src="js/gridrotator.js"></script>
         <script src="js/custom.js"></script>
     </div>
