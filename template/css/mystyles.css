@@ -146,6 +146,10 @@ footer#main-footer img {
 	display: none;
 }
 
+.user-profile-sidebar .user-profile-nav > li > a:hover > i {
+  	color: #d74c47;
+}
+
 @media (max-width:1024px) {
 	.lh1em {
 		font-size: 36px;
