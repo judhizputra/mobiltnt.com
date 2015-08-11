@@ -1,7 +1,7 @@
 		<?php include('header.php'); ?>
         
         <div class="container">
-            <h1 class="page-title">Pengaturan</h1>
+            <h1 class="page-title">Pengaturan Rental</h1>
         </div>
         
         <div class="container">
