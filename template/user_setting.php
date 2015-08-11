@@ -34,7 +34,7 @@
                                 <input type="submit" class="btn btn-danger" value="Perbarui Data">
                             </form>
                         </div>
-                        <div class="col-md-4 col-md-offset-1">
+                        <div class="col-md-5 col-md-offset-1">
                             <h4>Ubah Password</h4>
                             <form>
                                 <div class="form-group form-group-icon-left"><i class="fa fa-lock input-icon"></i>
