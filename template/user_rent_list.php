@@ -85,8 +85,9 @@
                                     </div>
                                     <div class="col-md-4 col-sm-6 col-lg-3"><span class="booking-item-price">Rp 1.350.000</span><span>/hari</span>
                                         <p class="booking-item-flight-class">Sport</p>
-                                        <a href="detail.php" class="btn btn-info">Ubah</a>
-                                        <a href="detail.php" class="btn btn-warning">Detail</a>
+                                        <a href="user_rent_form.php" class="btn btn-info btn-xs">Ubah</a>
+                                        <a href="detail.php" class="btn btn-warning btn-xs">Detail</a>
+                                        <a href="javascript:void(0)" class="btn btn-danger btn-xs">Hapus</a>
                                     </div>
                                 </div>
                             </div>
@@ -154,8 +155,9 @@
                                     </div>
                                     <div class="col-md-4 col-sm-6 col-lg-3"><span class="booking-item-price">Rp 750.000</span><span>/hari</span>
                                         <p class="booking-item-flight-class">SUV</p>
-                                        <a href="detail.php" class="btn btn-info">Ubah</a>
-                                        <a href="detail.php" class="btn btn-warning">Detail</a>
+                                        <a href="user_rent_form.php" class="btn btn-info btn-xs">Ubah</a>
+                                        <a href="detail.php" class="btn btn-warning btn-xs">Detail</a>
+                                        <a href="javascript:void(0)" class="btn btn-danger btn-xs">Hapus</a>
                                     </div>
                                 </div>
                             </div>
@@ -223,8 +225,9 @@
                                     </div>
                                     <div class="col-md-4 col-sm-6 col-lg-3"><span class="booking-item-price">Rp 1.350.000</span><span>/hari</span>
                                         <p class="booking-item-flight-class">Sport</p>
-                                        <a href="detail.php" class="btn btn-info">Ubah</a>
-                                        <a href="detail.php" class="btn btn-warning">Detail</a>
+                                        <a href="user_rent_form.php" class="btn btn-info btn-xs">Ubah</a>
+                                        <a href="detail.php" class="btn btn-warning btn-xs">Detail</a>
+                                        <a href="javascript:void(0)" class="btn btn-danger btn-xs">Hapus</a>
                                     </div>
                                 </div>
                             </div>
@@ -292,8 +295,9 @@
                                     </div>
                                     <div class="col-md-4 col-sm-6 col-lg-3"><span class="booking-item-price">Rp 750.000</span><span>/hari</span>
                                         <p class="booking-item-flight-class">SUV</p>
-                                        <a href="detail.php" class="btn btn-info">Ubah</a>
-                                        <a href="detail.php" class="btn btn-warning">Detail</a>
+                                        <a href="user_rent_form.php" class="btn btn-info btn-xs">Ubah</a>
+                                        <a href="detail.php" class="btn btn-warning btn-xs">Detail</a>
+                                        <a href="javascript:void(0)" class="btn btn-danger btn-xs">Hapus</a>
                                     </div>
                                 </div>
                             </div>
@@ -361,8 +365,9 @@
                                     </div>
                                     <div class="col-md-4 col-sm-6 col-lg-3"><span class="booking-item-price">Rp 1.350.000</span><span>/hari</span>
                                         <p class="booking-item-flight-class">Sport</p>
-                                        <a href="detail.php" class="btn btn-info">Ubah</a>
-                                        <a href="detail.php" class="btn btn-warning">Detail</a>
+                                        <a href="user_rent_form.php" class="btn btn-info btn-xs">Ubah</a>
+                                        <a href="detail.php" class="btn btn-warning btn-xs">Detail</a>
+                                        <a href="javascript:void(0)" class="btn btn-danger btn-xs">Hapus</a>
                                     </div>
                                 </div>
                             </div>
@@ -430,8 +435,9 @@
                                     </div>
                                     <div class="col-md-4 col-sm-6 col-lg-3"><span class="booking-item-price">Rp 750.000</span><span>/hari</span>
                                         <p class="booking-item-flight-class">SUV</p>
-                                        <a href="detail.php" class="btn btn-info">Ubah</a>
-                                        <a href="detail.php" class="btn btn-warning">Detail</a>
+                                        <a href="user_rent_form.php" class="btn btn-info btn-xs">Ubah</a>
+                                        <a href="detail.php" class="btn btn-warning btn-xs">Detail</a>
+                                        <a href="javascript:void(0)" class="btn btn-danger btn-xs">Hapus</a>
                                     </div>
                                 </div>
                             </div>
@@ -499,8 +505,9 @@
                                     </div>
                                     <div class="col-md-4 col-sm-6 col-lg-3"><span class="booking-item-price">Rp 1.350.000</span><span>/hari</span>
                                         <p class="booking-item-flight-class">Sport</p>
-                                        <a href="detail.php" class="btn btn-info">Ubah</a>
-                                        <a href="detail.php" class="btn btn-warning">Detail</a>
+                                        <a href="user_rent_form.php" class="btn btn-info btn-xs">Ubah</a>
+                                        <a href="detail.php" class="btn btn-warning btn-xs">Detail</a>
+                                        <a href="javascript:void(0)" class="btn btn-danger btn-xs">Hapus</a>
                                     </div>
                                 </div>
                             </div>
@@ -568,8 +575,9 @@
                                     </div>
                                     <div class="col-md-4 col-sm-6 col-lg-3"><span class="booking-item-price">Rp 750.000</span><span>/hari</span>
                                         <p class="booking-item-flight-class">SUV</p>
-                                        <a href="detail.php" class="btn btn-info">Ubah</a>
-                                        <a href="detail.php" class="btn btn-warning">Detail</a>
+                                        <a href="user_rent_form.php" class="btn btn-info btn-xs">Ubah</a>
+                                        <a href="detail.php" class="btn btn-warning btn-xs">Detail</a>
+                                        <a href="javascript:void(0)" class="btn btn-danger btn-xs">Hapus</a>
                                     </div>
                                 </div>
                             </div>
@@ -637,8 +645,9 @@
                                     </div>
                                     <div class="col-md-4 col-sm-6 col-lg-3"><span class="booking-item-price">Rp 1.350.000</span><span>/hari</span>
                                         <p class="booking-item-flight-class">Sport</p>
-                                        <a href="detail.php" class="btn btn-info">Ubah</a>
-                                        <a href="detail.php" class="btn btn-warning">Detail</a>
+                                        <a href="user_rent_form.php" class="btn btn-info btn-xs">Ubah</a>
+                                        <a href="detail.php" class="btn btn-warning btn-xs">Detail</a>
+                                        <a href="javascript:void(0)" class="btn btn-danger btn-xs">Hapus</a>
                                     </div>
                                 </div>
                             </div>
@@ -706,8 +715,9 @@
                                     </div>
                                     <div class="col-md-4 col-sm-6 col-lg-3"><span class="booking-item-price">Rp 750.000</span><span>/hari</span>
                                         <p class="booking-item-flight-class">SUV</p>
-                                        <a href="detail.php" class="btn btn-info">Ubah</a>
-                                        <a href="detail.php" class="btn btn-warning">Detail</a>
+                                        <a href="user_rent_form.php" class="btn btn-info btn-xs">Ubah</a>
+                                        <a href="detail.php" class="btn btn-warning btn-xs">Detail</a>
+                                        <a href="javascript:void(0)" class="btn btn-danger btn-xs">Hapus</a>
                                     </div>
                                 </div>
                             </div>
