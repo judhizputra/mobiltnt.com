@@ -38,7 +38,7 @@
                             <img src="http://www.mobiltnt.com/assets/img/sign.png" style="width:100px;"/><br />
                             Ricky Conrad<br />
                             Chief Executive Officer MobilTNT.com<br />
-                            <a href="mailto:ceo@propertykita.com">ceo[at]mobiltnt[dot]com</a><br />
+                            <a href="mailto:ceo@mobiltnt.com">ceo[at]mobiltnt[dot]com</a><br />
                         </div>
                     </div>
                 </div>
