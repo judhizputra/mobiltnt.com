@@ -1,13 +1,13 @@
 /*YOUR CUSTOM STYLES*/
 
-a {
-	color: #d74c47;
+/*a {
+	color: #ffd912;
 }
 
 a:hover {
-	color: #df706c;
+	color: #f7cf00;
 }
-
+*/
 .no-padding {
 	padding: 0px;
 }
@@ -15,6 +15,10 @@ a:hover {
 .col-centered {
 	float: none;
 	margin: 0 auto;
+}
+
+.bg-holder {
+	overflow: visible;
 }
 
 .nav-drop > .nav-drop-menu {
@@ -27,7 +31,7 @@ a:hover {
 }
 
 header#main-header {
-	border-bottom: 2px solid #d74c47;
+	border-bottom: 2px solid #ffd912;
 }
 
 .thumb {
@@ -48,11 +52,11 @@ header#main-header {
 .form-control:focus {
 	-webkit-box-shadow: none;
 	box-shadow: none;
-	border: 1px solid #d74c47;
+	border: 1px solid #ffd912;
 }
 
 footer#main-footer .form-control:focus {
-  	border-color: #d74c47;
+  	border-color: #ffd912;
 }
 
 footer#main-footer img {
@@ -69,7 +73,7 @@ footer#main-footer img {
 
 .bg-newsletter .input-icon {
 	top: 0px;
-	color: #d74c47;
+	color: #ffd912;
 }
 
 .booking-title {
@@ -77,11 +81,11 @@ footer#main-footer img {
 }
 
 .booking-item-dates-change {
-	border-color: #d74c47;
+	border-color: #ffd912;
 }
 
 .form-group.form-group-focus .input-icon.input-icon-hightlight {
-	color: #d74c47;
+	color: #ffd912;
 }
 
 .irs-diapason {
@@ -109,7 +113,7 @@ footer#main-footer img {
 
 .booking-item:hover,
 .booking-item.active {
-  border: 1px solid #d74c47;
+  border: 1px solid #ffd912;
 }
 	
 .booking-item-price {
@@ -117,15 +121,16 @@ footer#main-footer img {
 }
 
 .pagination > li > a {
-	color: #d74c47;
+	color: #ffd912;
 }
 
 .pagination > li.active > a, .pagination > li.active > a:hover {
-	background: #d74c47 none repeat scroll 0 0;
+	background: #ffd912 none repeat scroll 0 0;
 }
 
 .booking-item-features > li:hover > i {
-  	border-color: #d74c47;
+  	border-color: #ffd912;
+  	cursor: pointer;
 }
 
 .table-feature img {
@@ -152,7 +157,7 @@ footer#main-footer img {
 }
 
 .user-profile-sidebar .user-profile-nav > li > a:hover > i {
-  	color: #d74c47;
+  	color: #ffd912;
 }
 
 .panel {
@@ -190,6 +195,86 @@ span.sub-item {
 
 .forgot-form {
 	display: none;
+}
+
+.auto_complete_working{
+    background:url('http://www.mobiltnt.com/assets/img/loading-autocomplete.gif') no-repeat right center !important;
+    background-size: 25px 25px !important;
+}
+
+.box-icon-tnt {
+  	background: #ffd912 none repeat scroll 0 0;
+	color: #4d4d4d !important;
+}
+
+.box-icon-tnt:hover {
+	color: #ffd912 !important;
+}
+
+.btn-tnt {
+	color: #4d4d4d;
+	background-color: #ffd912;
+	border-color: #ffd600;
+}
+
+.btn-tnt:hover,
+.btn-tnt:focus,
+.btn-tnt:active,
+.btn-tnt.active,
+.open .dropdown-toggle.btn-tnt {
+	color: #4d4d4d;
+	background-color: #f7cf00;
+	border-color: #fad200;
+}
+
+.btn-tnt:active,
+.btn-tnt.active,
+.open .dropdown-toggle.btn-tnt {
+  	background-image: none;
+}
+
+.btn-tnt.disabled,
+.btn-tnt[disabled],
+fieldset[disabled] .btn-tnt,
+.btn-tnt.disabled:hover,
+.btn-tnt[disabled]:hover,
+fieldset[disabled] .btn-tnt:hover,
+.btn-tnt.disabled:focus,
+.btn-tnt[disabled]:focus,
+fieldset[disabled] .btn-tnt:focus,
+.btn-tnt.disabled:active,
+.btn-tnt[disabled]:active,
+fieldset[disabled] .btn-tnt:active,
+.btn-tnt.disabled.active,
+.btn-tnt[disabled].active,
+fieldset[disabled] .btn-tnt.active {
+	background-color: #ffd912;
+	border-color: #ffd600;
+}
+
+.btn-tnt .badge {
+  	color: #4d4d4d;
+  	background-color: #ffffff;
+}
+
+.form-control[readonly] {
+	cursor: pointer;
+}
+
+.post .post-title {
+  	font-size: 24px;
+}
+
+.post .post-inner {
+  	padding: 0 0 45px;
+}
+
+.post .post-desciption {
+  	margin-bottom: 10px;
+}
+
+.post .post-header {
+  	border-bottom: 2px solid #ffd912;
 }
 
 @media (max-width:1024px) {
